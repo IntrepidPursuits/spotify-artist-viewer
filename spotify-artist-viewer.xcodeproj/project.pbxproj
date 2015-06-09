@@ -87,8 +87,8 @@
 		2E7674291B26766200336867 /* spotify-artist-viewer */ = {
 			isa = PBXGroup;
 			children = (
-				2E7674511B2676D400336867 /* Networking */,
 				2E7674501B2676CD00336867 /* Models */,
+				2E7674511B2676D400336867 /* Networking */,
 				2E76742E1B26766200336867 /* AppDelegate.h */,
 				2E76742F1B26766200336867 /* AppDelegate.m */,
 				2E7674311B26766200336867 /* ViewController.h */,
